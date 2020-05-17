@@ -1,5 +1,5 @@
 {
-  "name": "nest-access-control",
+  "name": "nest7-access-control",
   "version": "2.0.1",
   "description": "Access Control Module For Nestjs Framework",
   "main": "index.js",
